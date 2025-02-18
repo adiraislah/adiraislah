@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Here is a little bit about me:
 - Data Visualization (Tableau, Looker, Power BI, Matplotlib)  
 
 ## 🚀 Projects:
-- [🔗 Heart Disease Prediction Model](https://github.com/adiraislah)  
+- [🔗 Heart Disease Prediction Model](https://github.com/Heart-Attack-Prediction)  
 
 ## 📫 Let's Connect:
 - LinkedIn: [Adira Islah](https://www.linkedin.com/in/adiraislah/)  
