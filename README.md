@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Adira Islah! 👋
 
-<!--
-**adiraislah/adiraislah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here is a little bit about me:
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m interested in the area of Data Science and Business Intelligence
+- 🌱 Bachelor of Computer Science
+- 📫 How to reach me: [islahadira@gmail.com](mailto:islahadira@gmail.com)
+
+## 📊 My Skills:
+- Python, SQL, Machine Learning  
+- Data Visualization (Tableau, Looker, Power BI, Matplotlib)  
+
+## 🚀 Projects:
+- [🔗 Heart Disease Prediction Model](https://github.com/adiraislah)  
+
+## 📫 Let's Connect:
+- LinkedIn: [Adira Islah](https://www.linkedin.com/in/adiraislah/)  
